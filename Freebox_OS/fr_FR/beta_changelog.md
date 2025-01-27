@@ -23,6 +23,10 @@ pluginId: Freebox_OS
 
 ## 27/01/2025
 
+## 28/01/2025
+
+- Migration de l'API mini en v13.
+
 - **Wifi**
 - Ajout commande "Choix Mode de veille planning" pour le wifi pour les box compatibles avec le mode Eco Wifi
 
